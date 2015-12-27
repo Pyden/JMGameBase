@@ -16,21 +16,34 @@ build/build/*
 proj.ios_mac/build/*
 
 .idea
+JMGameBase/frameworks/runtime-src/proj.android/ant.properties
 JMGameBase/frameworks/runtime-src/proj.android/assets
 JMGameBase/frameworks/runtime-src/proj.android/bin
 JMGameBase/frameworks/runtime-src/proj.android/gen
-#JMGameBase/frameworks/runtime-src/proj.android/libs
 JMGameBase/frameworks/runtime-src/proj.android/libs/armeabi/
 JMGameBase/frameworks/runtime-src/proj.android/local.properties
 JMGameBase/frameworks/runtime-src/proj.android/obj
 JMGameBase/frameworks/runtime-src/proj.android/out
 JMGameBase/frameworks/runtime-src/proj.android/JMGameBase.*
-#JMGameBase/frameworks/cocos2d-x/cocos/platform/android/java/
 JMGameBase/frameworks/runtime-src/proj.android/project.properties
 JMGameBase/frameworks/runtime-src/proj.android/*.iml
 JMGameBase/frameworks/runtime-src/proj.android/*.eml
 JMGameBase/frameworks/runtime-src/proj.android/.classpath
 JMGameBase/frameworks/runtime-src/proj.android/proguard_logs/
+
+#JMGameBase/frameworks/cocos2d-x/cocos/platform/android/java/
+JMGameBase/frameworks/cocos2d-x/cocos/platform/android/java/assets
+JMGameBase/frameworks/cocos2d-x/cocos/platform/android/java/bin
+JMGameBase/frameworks/cocos2d-x/cocos/platform/android/java/gen
+JMGameBase/frameworks/cocos2d-x/cocos/platform/android/java/libs/armeabi/
+JMGameBase/frameworks/cocos2d-x/cocos/platform/android/java/local.properties
+JMGameBase/frameworks/cocos2d-x/cocos/platform/android/java/obj
+JMGameBase/frameworks/cocos2d-x/cocos/platform/android/java/out
+JMGameBase/frameworks/cocos2d-x/cocos/platform/android/java/*.iml
+JMGameBase/frameworks/cocos2d-x/cocos/platform/android/java/*.eml
+JMGameBase/frameworks/cocos2d-x/cocos/platform/android/java/.classpath
+JMGameBase/frameworks/cocos2d-x/cocos/platform/android/java/proguard_logs/
+
 JMGameBase/publish
 JMGameBase/runtime/
 alipay_lib_assets
@@ -118,3 +131,5 @@ pip-delete-this-directory.txt
 # Translations
 *.mo
 *.pot
+
+
