@@ -26,7 +26,7 @@ JMGameBase/frameworks/runtime-src/proj.android/local.properties
 JMGameBase/frameworks/runtime-src/proj.android/obj
 JMGameBase/frameworks/runtime-src/proj.android/out
 JMGameBase/frameworks/runtime-src/proj.android/JMGameBase.*
-JMGameBase/frameworks/cocos2d-x/cocos/platform/android/java/
+#JMGameBase/frameworks/cocos2d-x/cocos/platform/android/java/
 JMGameBase/frameworks/runtime-src/proj.android/project.properties
 JMGameBase/frameworks/runtime-src/proj.android/*.iml
 JMGameBase/frameworks/runtime-src/proj.android/*.eml
